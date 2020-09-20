@@ -3,8 +3,12 @@
 # Hi i'm Antonios Kritsas | Welcome Abroad ⚡
 
 
-### I'm a Information Security Engineer
+### I'm a Information Security Engineer.
 
+
+### Movie and Series enthusiast
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 
