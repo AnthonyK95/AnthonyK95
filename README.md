@@ -1,10 +1,8 @@
 ### Welcome Aboard ⚡
 
 
-<img src="./404.png" width="100%" margin="auto">
 
-
-
+![](images/404.png)
 
 
 <!--
