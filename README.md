@@ -6,8 +6,6 @@
 ### I'm a Information Security Engineer.
 
 
-### Movie and Series enthusiast
-
 
 
 
