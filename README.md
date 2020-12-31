@@ -3,7 +3,7 @@
 # Hi i'm Antonios Kritsas | Welcome Abroad ⚡
 
 
-### I'm a Information Security Engineer.
+### Dreamer | Information Security Engineer | Bourbon - Coffee - Comics - Automatic Watch Enthusiast
 
 
 
