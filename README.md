@@ -1,4 +1,4 @@
-![](images/404.PNG)
+![](images/404.gif)
 
 # Hi i'm Antonios Kritsas | Welcome Abroad ⚡
 
